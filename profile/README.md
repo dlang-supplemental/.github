@@ -1,9 +1,3 @@
-# dlang-supplemental organization profile
+# dlang-supplemental
 
-Purpose:
-This is the GitHub organization profile for `dlang-supplemental`.
-
-It centralizes shared community guidance and organization-level automation for the organization's public repositories.
-
-Workflow templates:
-Organization workflow starter templates live under `workflow-templates/` in this repository.
+Dlang-supplemental is a collection of utilities, projects, reimplementations, fixes, and services for D lang.
