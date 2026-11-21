@@ -1,0 +1,66 @@
+= Changelog
+
+== 2026-11-20
+
+=== Docs template pointer
+
+* Record the suggested default docs template from dev-centr/agent-rules. The choice is a URL in this repo, not a pasted copy of the template.
+
+== 2026-10-17
+
+=== Add reusable docs-hub link-cache-invalidate dispatch workflo
+
+* Add reusable docs-hub link-cache-invalidate dispatch workflow.
+
+== 2026-10-06
+
+=== ci enable Dependabot for GitHub Actions (monthly, grouped)
+
+* ci: enable Dependabot for GitHub Actions (monthly, grouped)
+
+== 2026-10-05
+
+=== Repair double-encoded UTF-8 characters
+
+* Repair double-encoded UTF-8 characters.
+* Add encoding guard (UTF-8 mojibake check).
+
+== 2026-08-18
+
+=== Link dev-centr/agent-rules as a submodule so this org does n
+
+* Link dev-centr/agent-rules as a submodule so this org does not keep a second copy.
+* Point contributors to the org-level agent-rules repository.
+* Point contributors to org-level agent-rules wrapper repository.
+* Point contributors at the org overlay and canonical agent-rules.
+
+== 2026-07-25
+
+=== Remove Viewing-as badge from org profile README
+
+* Remove Viewing-as badge from org profile README
+
+== 2026-07-24
+
+=== Add D+ org logo to profile README
+
+* Add D+ org logo to profile README
+* Add 256px and 512px PNG exports of the org logo for GitHub settings.
+* Lead org profile with logo and View badge table.
+* Simplify profile badge to Viewing as.
+* Move Viewing as badge to the end of the profile.
+* Color the public Viewing as badge blue.
+
+== 2026-03-19
+
+=== rewrite profile
+
+* rewrite profile
+
+== 2026-03-18
+
+=== Add minimal github profile
+
+* Add minimal .github profile
+* Add profile README for GitHub org profile
+

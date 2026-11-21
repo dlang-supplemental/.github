@@ -6,3 +6,7 @@ This repository provides GitHub organization-level community and workflow config
 Workflow templates:
 To add organization workflow starter templates, place template files under `workflow-templates/` following GitHub's documentation:
 https://docs.github.com/en/actions/using-workflows/creating-starter-workflows-for-your-organization
+
+## Changelog
+
+See [CHANGELOG.adoc](CHANGELOG.adoc).
